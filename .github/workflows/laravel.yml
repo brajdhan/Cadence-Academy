@@ -15,4 +15,4 @@ jobs:
         server: 116.202.50.58
         username: academy@academy.lotusoft.in
         password: C2ebRq_HyISL
-        server-dir : ../../academy.lotusoft.in/
+        #server-dir : ../../academy.lotusoft.in/
