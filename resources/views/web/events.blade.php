@@ -70,16 +70,6 @@
             <li class="nav-item">
               <a class="nav-link" href="{{ route('gallery')}}">Gallery</a>
             </li>
-            <!-- <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Events
-              </a>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="{{ route('fashion-designing-course')}}">Fashion Designing</a></li>
-                <li><a class="dropdown-item" href="{{ route('fashion-designing-course')}}">Interior Designing</a></li>
-              </ul>
-            </li> -->
 
             <li class="nav-item">
               <a class="nav-link" href="{{ route('events')}}">Events</a>
