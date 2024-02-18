@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: academy@academy.lotusoft.in
-        username: academy
+        server: ftp.motiontrick.in
+        username: academy@academy.lotusoft.in
         password: C2ebRq_HyISL
         server-dir : public_html/academy.lotusoft.in/
