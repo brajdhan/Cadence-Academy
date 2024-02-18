@@ -15,4 +15,6 @@ jobs:
         server: 116.202.50.58
         username: academy@academy.lotusoft.in
         password: C2ebRq_HyISL
-        server-dir : public_html/academy.lotusoft.in/
+        server-dir : ./public_html/academy.lotusoft.in/
+        port : 21
+        protocol : ftp
