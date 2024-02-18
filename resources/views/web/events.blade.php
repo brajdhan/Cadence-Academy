@@ -84,7 +84,7 @@
               <a class="nav-link" href="{{ route('online-admission')}}">Online Admission</a>
             </li>
           </ul>
-
+ 
         </div>
       </div>
     </nav>
