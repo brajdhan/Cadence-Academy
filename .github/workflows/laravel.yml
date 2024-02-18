@@ -14,4 +14,4 @@ jobs:
         server: academy@academy.lotusoft.in
         username: academy
         password: C2ebRq_HyISL
-        server-dir : public_html/academy.lotusoft.in
+        server-dir : public_html/academy.lotusoft.in/
