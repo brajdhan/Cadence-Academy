@@ -14,4 +14,4 @@ jobs:
         server: ftp.motiontrick.in
         username: academy@academy.lotusoft.in
         password: C2ebRq_HyISL
-        server-dir : public_html/academy.lotusoft.in/
+        server-dir : /home/motiontr/public_html/academy.lotusoft.in/
